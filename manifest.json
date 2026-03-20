@@ -2,26 +2,26 @@
   "name": "ClosetIQ — Your AI Stylist",
   "short_name": "ClosetIQ",
   "description": "AI-powered outfit recommendations based on your wardrobe and the weather.",
-  "start_url": "/",
+  "start_url": "/mekdi-app/",
+  "scope": "/mekdi-app/",
   "display": "standalone",
   "background_color": "#0a0a0a",
   "theme_color": "#0a0a0a",
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "/mekdi-app/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icon-512.png",
+      "src": "/mekdi-app/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
   ],
   "categories": ["lifestyle", "fashion"],
-  "screenshots": [],
   "prefer_related_applications": false
 }
